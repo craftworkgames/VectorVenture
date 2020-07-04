@@ -1,6 +1,9 @@
-
+# build artifacts
 bin/
 obj/
 
 # JetBrains Rider
 .idea/
+
+# macOS
+.DS_Store
